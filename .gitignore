@@ -1,2 +1,4 @@
 # Project exclude paths
-/venv/
+.vscode
+.mypy_cache
+docker-stack.yml
